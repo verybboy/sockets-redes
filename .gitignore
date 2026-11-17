@@ -1,0 +1,15 @@
+# Archivos objeto
+*.o
+
+# Ejecutables de Windows y salidas habituales del compilador
+*.exe
+*.out
+
+# Ejecutables Linux previstos (sin extensión)
+servidor
+cliente
+clientcp
+clientudp
+
+# Logs generados
+*.log
